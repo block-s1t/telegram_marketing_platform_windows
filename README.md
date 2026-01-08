@@ -1,5 +1,5 @@
 # Telegram电报群发拉群桌面版
-Telegram电报群发拉群桌面版（飞机群发，TG群发），TG协议，可以拉群，群发，加群，监听, 代理等
+Telegram电报群发拉群桌面版（飞机群发，TG群发），TG协议，可以拉群，群发，加群，代理等
 
 ## 联系方式
 - [Telegram](https://t.me/marc_mal)
